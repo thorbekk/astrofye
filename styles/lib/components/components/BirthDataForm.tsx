@@ -1,4 +1,3 @@
-```typescript
 import { useState } from 'react';
 import { ArrowLeft, MapPin, Clock, Calendar, User, Mail, Palette, CheckCircle, AlertCircle } from 'lucide-react';
 import { Button } from './ui/button';
@@ -416,4 +415,3 @@ export function BirthDataForm({ onComplete, onBack }: BirthDataFormProps) {
     </div>
   );
 }
-```
