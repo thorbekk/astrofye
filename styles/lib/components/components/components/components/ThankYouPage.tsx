@@ -1,4 +1,3 @@
-```typescript
 import { useState } from 'react';
 import { Download, Share2, Star, Mail, Facebook, Copy, CheckCircle } from 'lucide-react';
 import { Button } from './ui/button';
@@ -203,4 +202,3 @@ export function ThankYouPage({ onNewReport }: ThankYouPageProps) {
     </div>
   );
 }
-```
