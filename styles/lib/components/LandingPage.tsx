@@ -1,4 +1,3 @@
-```typescript
 import { useState } from 'react';
 import { Star, Play, Check, ChevronDown, Menu, X, Calendar, FileText, Heart, Share2, Clock, Users } from 'lucide-react';
 import { Button } from './ui/button';
@@ -483,4 +482,3 @@ export function LandingPage({ onStartTest, onNavigate }: LandingPageProps) {
     </div>
   );
 }
-```
