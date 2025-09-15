@@ -1,4 +1,3 @@
-```typescript
 // Shopify Storefront API configuration and functions
 // 🔧 SHOPIFY-VERDIER OPPDATERT:
 const SHOPIFY_DOMAIN = 'qzzi0h-i1.myshopify.com'; // Din butikk-URL
@@ -319,4 +318,3 @@ export function formatBirthDataForShopify(formData: any) {
     { key: 'uncertain_time', value: formData.uncertainTime ? 'true' : 'false' }
   ];
 }
-```
