@@ -1,4 +1,3 @@
-```typescript
 import { useState, useEffect } from 'react';
 import { ArrowLeft, CreditCard, Shield, Gift, Lock, Check, ExternalLink, Loader2 } from 'lucide-react';
 import { Button } from './ui/button';
@@ -383,4 +382,3 @@ export function CheckoutPage({ onComplete, onBack, formData }: CheckoutPageProps
     </div>
   );
 }
-```
