@@ -1,4 +1,3 @@
-```typescript
 import { useState, useEffect } from 'react';
 import { Star, Play, Check, ChevronDown, Menu, X } from 'lucide-react';
 import { Button } from './components/ui/button';
@@ -83,4 +82,3 @@ export default function App() {
     </div>
   );
 }
-```
